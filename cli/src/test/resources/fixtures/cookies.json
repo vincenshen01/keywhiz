@@ -1,0 +1,10 @@
+[
+  {
+    "name" : "session",
+    "value" : "session-contents",
+    "domain" : "localhost",
+    "path" : "/admin",
+    "secure" : true,
+    "httpOnly" : true
+  }
+]
